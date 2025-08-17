@@ -1,0 +1,33 @@
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:#1B244A ;
+}
+div{
+    text-align: center;
+
+}
+h3{
+    font-size: 40px;
+    font-family: Verdana;
+}
+h1{
+    font-family: Cursed Timer ULiL;
+    color: tomato;
+    text-align: center;
+}
+#home-score{
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+}
+#guest-score{
+    width: 155px;
+    height: 120px;
+    background-color: #080001;
+}
+button{
+    margin: 10px;
+}
